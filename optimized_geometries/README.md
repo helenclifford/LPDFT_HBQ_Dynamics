@@ -1,3 +1,6 @@
+hbq_xyz_files.zip is the zip file which contains all HBQ optimized geometries using SA(2)-L–tPBE(4,4)/6-
+31G** for the ground and excited state. Individual xyz files are also included.
+
 The potential energy surface of HBQ was generated along the proton-transfer coordinate by propagating
 the converged SA-CASSCF wave function sequentially: the converged solution for the ith geometry was 
 used as the initial guess for geometry i+1 across the full pathway, ensuring continuous and smooth 
